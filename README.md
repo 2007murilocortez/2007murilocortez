@@ -31,7 +31,7 @@ Meu foco atual é construir uma base sólida em lógica de programação e enten
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake.svg">
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake.svg" width="100%">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
