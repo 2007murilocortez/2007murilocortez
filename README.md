@@ -14,11 +14,12 @@ Meu foco atual é construir uma base sólida em lógica de programação e enten
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-* **Linguagens:** Python (Nível Iniciante / Em evolução) 
-& 
-C++ (Nivel iniciante / Em evolução)
+
+<br>
+
+* **Linguagens:** Python (Nível Iniciante / Em evolução) & C++ (Nivel iniciante / Em evolução)
 * **Competências:** Lógica de Programação, Gestão de Projetos, Prototipagem Rápida (IA/No-Code)
-* **Interesses:** Segurança da Informação, Lógica de Negócios, Startups, 
+* **Interesses:** Segurança da Informação, Lógica de Negócios, Startups, Investimentos P2P e Bitcoin
 
 ### ⚡ Um pouco mais sobre mim:
 * Fora dos estudos, você me encontra treinando pesado na academia jogando CS2 ou cuidando da minha familia.
