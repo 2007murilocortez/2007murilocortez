@@ -1,4 +1,5 @@
-# Olá, eu sou o Murilo Cortez! 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=1968a4&text=Olá,+eu+sou+o+Murilo+Cortez!&reversal=false&textBg=false&animation=fadeIn&fontColor=ffffff&fontSize=40&fontAlignY=40" width="100%" alt="Banner Murilo">
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Anhembi Morumbi, em Sorocaba/SP. Sou apaixonado por tecnologia, negócios e por entender como soluções resolvem problemas reais no mercado.
 
@@ -10,6 +11,9 @@ Meu foco atual é construir uma base sólida em lógica de programação e enten
 * 🗑️ **Trash Tracker (Concluído):** Sistema de monitoramento para análise de níveis de lixeiras. Atuei diretamente na **Gestão do Projeto e Planejamento**, estruturando as regras de negócio e coordenando as entregas da equipe.
 
 ### 🛠️ Habilidades e Ferramentas:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 * **Linguagens:** Python (Nível Iniciante / Em evolução) 
 & 
 C++ (Nivel iniciante / Em evolução)
