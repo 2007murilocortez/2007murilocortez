@@ -26,5 +26,12 @@ C++ (Nivel iniciante / Em evolução)
 
 ---
 *💡 "Tecnologia é a ferramenta; a gestão e a lógica são o caminho."*
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/2007murilocortez/2007murilocortez/output/dist/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=1968a4&section=footer">
